@@ -1,2 +1,2 @@
 # MyFirstSDK
-Android Studio 导出混淆并导出jar包
+Android Studio 混淆并导出jar包
